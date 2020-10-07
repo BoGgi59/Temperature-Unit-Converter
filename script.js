@@ -38,7 +38,7 @@ kelvin2 = kelvin2.toFixed(3);
 
 //the answer to user
 confirm(
-  `You entered ${fahrenheit2} in Fahrenheit degree which is equals to ${celcius2} celcius degree and ${kelvin2} Kelvin degree`
+  `You entered ${fahrenheit2} in Fahrenheit degree which is equals to ${celcius2} Celcius degree and ${kelvin2} Kelvin degree`
 );
 
-alert("Thank you for choosing our Temperature Calculator. :)");
+alert("Thank you for using our Temperature Converter. :)");
